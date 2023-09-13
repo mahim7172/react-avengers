@@ -1,0 +1,30 @@
+.cart-container{
+    border: 2px solid white;
+    padding: 20px;
+    width: 250px;
+    height: 300px;
+    border-radius: 5px;
+}
+.salary-div{
+    display: flex;
+    justify-content: space-around;
+}
+.button{
+    align-items: center;
+}
+
+.cart-container-second{
+    display: flex;
+    gap: 10px;
+}
+.ami-container-cart-er{
+    width:auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.image-hmm{
+    width: 50px;
+    border-radius: 50px;
+
+}

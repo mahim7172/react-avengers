@@ -1,0 +1,6 @@
+body{
+    background-image:linear-gradient(rgb(0,0,0,0.7), rgb(0,0,0,0.7)), url(https://i.ibb.co/CnQh0KW/Avengers-Endgame-Banner-2-de7cf60.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
